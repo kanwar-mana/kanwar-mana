@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate developer exploring the world of 
   A data-driven project involving GIS data from Cook County and dynamic form generation.
 
 - 🌱 I'm currently learning:  
-  JavaScript, APIs, and working with JSON data.
+  Node.js, Express.js, and REST API.
 
 - 💡 Goals for 2025:  
   - Build and launch a full-stack web app  

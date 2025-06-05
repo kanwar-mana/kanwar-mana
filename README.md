@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a passionate developer exploring the world of 
   Frontend basics, working with JSON, or learning how to start coding!
 
 - 📫 How to reach me:  
-  kanwarabdullrahman@gmail.com | https://www.linkedin.com/in/kanwer-abdull-rahman/ | [Portfolio Website if any]
+  kanwarabdullrahman@gmail.com | https://www.linkedin.com/in/kanwer-abdull-rahman/ | https://kanwar-mana.github.io/my_portfolio/
 
 ---
 
